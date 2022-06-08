@@ -1,1 +1,1 @@
-# kodlamaio-day3-homework2
+# kodlamaio folder to share assignments
